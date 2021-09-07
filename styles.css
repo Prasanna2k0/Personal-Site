@@ -1,0 +1,114 @@
+body {
+
+  text-align: center;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #656270;
+  font-size: 1.2rem;
+}
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 7rem;
+  height: 142px;
+  margin-bottom: 30px;
+  color: #000;
+}
+
+h3, a {
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+
+.intro {
+  padding-top: 50px;
+  background-color: #fefaf6;
+  line-height: 2;
+  padding-bottom: 100px;
+}
+
+.subtitle {
+  font-weight: normal;
+}
+
+.web {
+  text-decoration: underline;
+}
+.middle-container {
+  margin-top: 100px;
+}
+.skills {
+  margin-top: 100px;
+}
+.cloud1 {
+  position: relative;
+  top: 50px;
+  left: 500px;
+
+}
+.cloud2 {
+  position: absolute;
+  left: 150px;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 5% auto 10%;
+  text-align: left;
+}
+.skill-row2 {
+  width: 50%;
+  margin: 15% auto;
+  text-align: left;
+}
+
+.computer {
+  border-radius: 100%;
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilli {
+  width: 40%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  background-color: #7FC8A9;
+  padding: 50px 0;
+}
+
+.help1 {
+  width: 60%;
+  margin: 0 auto;
+  font-size: 1rem;
+}
+.help2 {
+  width: 60%;
+  margin: 0 auto 5%;
+  font-size: 1rem;
+}
+.contact-me {
+  margin: 10% 10%;
+  margin-bottom: 100px;
+}
+
+.btn {
+  background-color: #7FC8A9;
+  padding: 7px;
+  border-radius: 7px;
+}
+
+.footer-link {
+  padding: 0 20px;
+}
+
+.copyright {
+  margin-top: 50px;
+  font-size: 0.8rem;
+  color: #000;
+}
